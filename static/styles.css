@@ -53,13 +53,8 @@ a i {
     margin-right: 8px;
 }
 
-a:hover {
-    color: #003cff;
-    border-color: #003cff;
-}
-
 @media (max-width: 768px) {
     body {
-      padding: 15px;
+      padding: 20px;
     }
 }
